@@ -1,0 +1,15 @@
+{
+  "name": "6sem-webgl-lab6",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "live": "live-server"
+  },
+  "author": "Max Kiselev",
+  "license": "MIT",
+  "description": "",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  },
+  "homepage": "https://wtf403.github.io/6sem-webgl-lab6"
+}
